@@ -1,6 +1,8 @@
 # Lightboxjs::Rails
 
-TODO: Write a gem description
+Simple wrapper for lightbox 2.
+
+Tested in Rails 4. 
 
 ## Installation
 
