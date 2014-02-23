@@ -6,7 +6,7 @@ TODO: Write a gem description
 
 Add this line to your application's Gemfile:
 
-    gem 'lightboxjs-rails'
+    gem "lightboxjs-rails", :git => "git@github.com:mrgrt/lightbox2.git"
 
 And then execute:
 
